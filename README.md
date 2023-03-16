@@ -1,1 +1,2 @@
 # Bayesian_Networks_and_Hidden_Markov_Model
+For the first problem, I investigated the structure of the binarized MNIST dataset using Bayesian networks. Also, I used my Bayesian network to distinguish real hand-written digit images from anomalous ones. For the second problem, I implemented different methods of sampling in Bayesian networks and compared them by varying queries and the number of samples. For the last question, I used the Hidden Markov Model to solve the problem which is estimating the coordinates of ships using the noisy data received from the antennas. 
